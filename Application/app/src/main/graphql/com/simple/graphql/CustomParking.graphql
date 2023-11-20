@@ -1,0 +1,5 @@
+mutation CustomParking($parkingLotId: String!) {
+    customParking(parkingLotId: $parkingLotId) {
+        ok
+    }
+}

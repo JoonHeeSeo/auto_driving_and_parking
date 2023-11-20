@@ -1,0 +1,6 @@
+query TestTest {
+  tests {
+    title
+    publicationDate
+  }
+}

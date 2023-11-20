@@ -1,0 +1,7 @@
+query CarStatus {
+     carStatus {
+        time
+        velocity
+        battery
+    }
+}

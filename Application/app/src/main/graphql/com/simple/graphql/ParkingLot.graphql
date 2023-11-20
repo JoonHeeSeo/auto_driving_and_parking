@@ -1,0 +1,11 @@
+query ParkingLot {
+  parkingLots {
+    parkingLotId
+    parkingLotName
+    positionX
+    positionY
+    standardRate
+    overtimeRate
+    vacancy
+  }
+}
